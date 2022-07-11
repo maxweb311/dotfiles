@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = maxime.a.weber@gmail.com
+	name = maxime weber
